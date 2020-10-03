@@ -17,7 +17,7 @@
 
 </head>
 <body>
-
+<!-- in this page we work for blog of mayankal  -->
 <!-- Wrapper -->
 <div id="wrapper">
 
